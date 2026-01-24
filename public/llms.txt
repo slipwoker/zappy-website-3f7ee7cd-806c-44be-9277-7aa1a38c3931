@@ -1,6 +1,4 @@
-# טופ גרופ נדל"ן — Generative Engine Optimization Map
-
-> A נדל"ן מסחרי ונכסים מניבים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -40,15 +38,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About טופ גרופ נדל"ן
-טופ גרופ נדל"ן is a business in the נדל"ן מסחרי ונכסים מניבים industry.
-
-## Target Audience
-בעלי נכסים, משקיעים, יזמים וחברות
-
-## Industry
-נדל"ן מסחרי ונכסים מניבים
-
+## About Business
 ---
 
 # Additional Resources
