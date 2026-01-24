@@ -1,47 +1,57 @@
-# Business — Generative Engine Optimization Map
+# טופ גרופ נדל"ן — Generative Engine Optimization Map
+
+> A נדל"ן מסחרי ונכסים מניבים business.
 
 ---
 
 ## Pages
 
 ### מומחים בנכסים מניבים ומרכזי מסחר — טופ גרופ נדל"ן
-https://example.com
+https://top-group-nadlan.zappy5.app
 טופ גרופ נדל"ן - מומחים בנכסים מניבים ומרכזי מסחר. ליווי מקצועי לעסקאות רכישה ומכירה של נדל"ן מסחרי.
 
 ### אודות טופ גרופ - מומחים בנכסים מניבים — טופ גרופ נדל"ן
-https://example.com/about
+https://top-group-nadlan.zappy5.app/about
 טופ גרופ נדל"ן - סיפור של מקצועיות והצלחה בתחום הנכסים מניבים. למדו על הצוות המנוסה, הערכים שלנו והגישה המקצועית לתיווך נדלן מסחרי.
 
 ### שירותי נכסים מניבים ומרכזי מסחר מקצועיים — טופ גרופ נדל"ן
-https://example.com/our-services
+https://top-group-nadlan.zappy5.app/our-services
 שירותי תיווך נדלן מסחרי מקצועיים - נכסים מניבים, מרכזי מסחר, בנייני משרדים למכירה והערכת שווי. ליווי מלא מהרעיון ועד לסגירה.
 
 ### צור קשר - ייעוץ בנכסים מניבים — טופ גרופ נדל"ן
-https://example.com/contact
+https://top-group-nadlan.zappy5.app/contact
 צרו קשר עם טופ גרופ נדל"ן - מומחים בנכסים מניבים ומרכזי מסחר. קבעו פגישת ייעוץ ללא התחייבות לתיווך נדלן מסחרי בישראל.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://top-group-nadlan.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://top-group-nadlan.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://top-group-nadlan.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Business
+## About טופ גרופ נדל"ן
+טופ גרופ נדל"ן is a business in the נדל"ן מסחרי ונכסים מניבים industry.
+
+## Target Audience
+בעלי נכסים, משקיעים, יזמים וחברות
+
+## Industry
+נדל"ן מסחרי ונכסים מניבים
+
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://example.com/sitemap.xml
-- **Robots.txt**: https://example.com/robots.txt
+- **Sitemap**: https://top-group-nadlan.zappy5.app/sitemap.xml
+- **Robots.txt**: https://top-group-nadlan.zappy5.app/robots.txt
