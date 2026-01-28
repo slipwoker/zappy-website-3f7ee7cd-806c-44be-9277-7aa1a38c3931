@@ -1,6 +1,4 @@
-# טופ גרופ נדל"ן — Generative Engine Optimization Map
-
-> A נדל"ן מסחרי ונכסים מניבים business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -17,6 +15,9 @@ https://top-group-nadlan.zappy5.app/about
 ### שירותי נכסים מניבים ומרכזי מסחר מקצועיים — טופ גרופ נדל"ן
 https://top-group-nadlan.zappy5.app/our-services
 שירותי תיווך נדלן מסחרי מקצועיים - נכסים מניבים, מרכזי מסחר, בנייני משרדים למכירה והערכת שווי. ליווי מלא מהרעיון ועד לסגירה.
+
+### Page
+https://top-group-nadlan.zappy5.app/menu-group-1769523894907
 
 ### צור קשר - ייעוץ בנכסים מניבים — טופ גרופ נדל"ן
 https://top-group-nadlan.zappy5.app/contact
@@ -40,15 +41,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About טופ גרופ נדל"ן
-טופ גרופ נדל"ן is a business in the נדל"ן מסחרי ונכסים מניבים industry.
-
-## Target Audience
-בעלי נכסים, משקיעים, יזמים וחברות
-
-## Industry
-נדל"ן מסחרי ונכסים מניבים
-
+## About Business
 ---
 
 # Additional Resources
